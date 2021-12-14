@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageTracking
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4646638632449888446
+  m_GuidHigh: 10452173158455113632
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5018238333054879779
+      m_GuidHigh: 6013383198312936333
+    m_SerializedTextureGuid:
+      m_GuidLow: 4927643224729417258
+      m_GuidHigh: 1249139337039445256
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Prefab1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4746873368561815769
+      m_GuidHigh: 12984433109476096651
+    m_SerializedTextureGuid:
+      m_GuidLow: 12973082874211804720
+      m_GuidHigh: 5877148631907987210
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Prefab2
+    m_Texture: {fileID: 0}
