@@ -71,8 +71,6 @@ public class TargetManager : MonoBehaviour
 
     void ListAllImages()
     {
-        
-
         foreach (var trackedImage in trackedImageManager.trackables)
         {
 

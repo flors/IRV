@@ -9,6 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/ImageTracking.unity
     guid: 83689fadfe6454e828ba600f36c1055c
   m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 961c6a43ec3f2430aa7f3c0dd328b958, type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 4a7f04750ee95459cb07c5ac3c9c11d9, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e46177ade0373457e92a72c26409a606, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 9302e5705a69c4b2eaa73a0fa18ca0ea, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7855c22f834fc4bf297765b3074561a0, type: 2}
